@@ -1,5 +1,5 @@
 # Appearance
-![[ConneenciPossu.png]]
+![[ConneenciPossu.png|600]]
 
 
 # Relationships
